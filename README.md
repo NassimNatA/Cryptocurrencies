@@ -9,9 +9,11 @@ The purpose of this project is to process cryptocurrency data with a machine lea
 Below are the data visualizations fromt challenge deliverable.ipynb file submitted for this project: 
 
 - Deliverable 3 elbow curve
-[alt_text]!(https://github.com/NassimNatA/Cryptocurrencies/blob/main/Screen%20Shot%202021-01-10%20at%202.00.55%20AM.png)
+
+![alt_text](https://github.com/NassimNatA/Cryptocurrencies/blob/main/Screen%20Shot%202021-01-10%20at%202.00.55%20AM.png)
 
 - Deliverable 4 3D scatter plot
+
 ![alt_text](https://github.com/NassimNatA/Cryptocurrencies/blob/main/Screen%20Shot%202021-01-10%20at%202.00.48%20AM.png)
 
 - Deliverable 4 table
